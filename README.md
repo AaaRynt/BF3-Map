@@ -3,10 +3,6 @@
 我在2022年整理的，当时是从第三方的社区直接保存的，原图的来源早已淹没在互联网里了
 
 ```bash
-Last login: Sat May  2 21:05:54 on ttys000
-
-21:41:16  HEAD $✘!? Note/Assets/Temp/BF3-Map-master 
-❯ lt                                                                                     
  .
 ├── 󰂺 README.md
 ├──  RUSH
